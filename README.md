@@ -3,8 +3,6 @@
 > **IBM AI Agent Internship Project**  
 > Exploring AI-driven solutions to link carbon credits with marine ecosystem protection.
 
-![Marine Conservation](https://upload.wikimedia.org/wikipedia/commons/6/6a/Coral_reef.jpg)
-
 ---
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)  
